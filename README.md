@@ -13,6 +13,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
 
 - 🌍 Living in **Dhaka, Bangladesh**
 - 📧 Reach me at **tashfia.islam102938@gmail.com**
+- - 📞 **+880 1611-666666**
 - 💼 Open to collaborations, freelance, and full-time opportunities
 
 ---
@@ -71,14 +72,15 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tash-9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tash-9&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tash-9&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tash-9&layout=compact&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tash-9&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com?user=tash-9&theme=tokyonight" />
 
 </div>
 
