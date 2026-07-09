@@ -1,7 +1,11 @@
 <div align="center">
-
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20There!%20I'm%20Tasfia%20Islam%20Raisha👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Tasfia%20Islam%20Raisha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=20" width="100%" />
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QA%20Enthusiast-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous%20Learner-F59E0B?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -13,7 +17,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
 
 - 🌍 Living in **Dhaka, Bangladesh**
 - 📧 Reach me at **tashfia.islam102938@gmail.com**
-- - 📞 **+880 1611-666666**
+- 📞 **+880 1611-666666**
 - 💼 Open to collaborations, freelance, and full-time opportunities
 
 ---
@@ -46,7 +50,6 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 🧪 Software Testing
@@ -103,5 +106,5 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" />
 </div>
