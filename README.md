@@ -89,6 +89,81 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 BloodBridge – Blood Donation Management System
+
+A full-stack blood donation platform that connects donors with recipients through a secure and user-friendly interface. Users can register as donors, search for blood by group and location, submit donation requests, and manage their donation activities efficiently.
+
+**🛠️ Technologies:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+
+🔗 **Live:** https://your-bloodbridge-live-link.com
+
+📂 **Repository:** https://github.com/tash-9/your-bloodbridge-repository
+<br><br>
+</td>
+
+<td width="50%" valign="top">
+
+### ⚽ SportNest – Sports Booking Management System
+
+A full-stack sports facility booking platform where users can explore venues, book sports courts, manage reservations, and enjoy a seamless booking experience through a modern and responsive interface.
+
+**🛠️ Technologies:** React, Node.js, Express.js, MongoDB
+
+🔗 **Live:** https://sportnest-client-sage.vercel.app
+
+📂 **Repository:** https://github.com/tash-9/Sportnest-client
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 ShopNest – E-commerce Platform
+
+A modern full-stack e-commerce platform featuring secure authentication, product browsing, advanced search and filtering, shopping cart, order management, and role-based dashboards for buyers, sellers, and administrators.
+
+**🛠️ Technologies:** React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
+
+🔗 **Live:** https://shopnest-client.vercel.app
+
+📂 **Repository:** https://github.com/tash-9/ShopNest-client
+<br><br>
+</td>
+
+<td width="50%" valign="top">
+
+### 🌿 KeenKeeper – Friendship Tracker
+
+A responsive friendship management application that helps users maintain meaningful relationships by tracking interactions, monitoring connection history, and visualizing friendship analytics.
+
+**🛠️ Technologies:** React, Tailwind CSS, React Router, Recharts, Vite
+
+🔗 **Live:** https://keenkeeper-react.netlify.app/
+
+📂 **Repository:** https://github.com/tash-9/KeenKeeper
+<br><br>
+</td>
+
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### 🚧 More Coming Soon
+
+I'm currently building another full-stack application focused on solving real-world problems using modern web technologies. Stay tuned for updates!
+<br><br>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
