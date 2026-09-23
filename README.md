@@ -75,14 +75,6 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tash-9&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tash-9&layout=compact&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=tash-9&theme=tokyonight" />
 
 </div>
@@ -101,9 +93,9 @@ A full-stack blood donation platform that connects donors with recipients throug
 
 **🛠️ Technologies:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
-🔗 **Live:** https://your-bloodbridge-live-link.com
+🔗 **Live:** https://bloodbridge-client.vercel.app/
 
-📂 **Repository:** https://github.com/tash-9/your-bloodbridge-repository
+📂 **Repository:** https://github.com/tash-9/bloodbridge-client
 <br><br>
 </td>
 
